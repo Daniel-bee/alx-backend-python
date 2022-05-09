@@ -1,5 +1,3 @@
-
-  
 #!/usr/bin/env python3
 """Module for client.py unit tests"""
 from client import GithubOrgClient
